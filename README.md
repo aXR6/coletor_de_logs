@@ -19,8 +19,8 @@ chmod +x coletar_logs_boot.sh
 sudo ./coletar_logs_boot.sh
 ```
 
-<img src="[URL_da_Imagem](https://prnt.sc/W-uTtwg9iRLv)" alt="Imagem 1">
+<img src="(https://prnt.sc/W-uTtwg9iRLv)" alt="Imagem 1">
 
-<img src="[URL_da_Imagem](https://prnt.sc/hM5W-1SSgIA-)" alt="Imagem 2">
+<img src="(https://prnt.sc/hM5W-1SSgIA-)" alt="Imagem 2">
 
 # O script coletará os logs de inicialização, os categorizará e os salvará no diretório $HOME/logs_boot, fornecendo um resumo das informações coletadas.
