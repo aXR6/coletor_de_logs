@@ -20,6 +20,8 @@ sudo ./coletar_logs_boot.sh
 ```
 
 <img src="(https://prnt.sc/W-uTtwg9iRLv)" alt="Imagem 1">
+![Texto Alternativo](https://prnt.sc/W-uTtwg9iRLv)
+
 
 <img src="(https://prnt.sc/hM5W-1SSgIA-)" alt="Imagem 2">
 
